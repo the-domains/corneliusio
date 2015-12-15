@@ -1,6 +1,6 @@
 name: corneliusio
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.29041
 typography_spectrum: 0.69506
 title: Cornelius Ukena
 cta:
@@ -22,7 +22,7 @@ color:
     - '#ce9f00'
     - '#86120b'
     - '#001d74'
-  brandStrength: 0.25
+  brandStrength: 0
   lightness: 0.6875
   saturation: 1
   rhythmicContrast: 0.25

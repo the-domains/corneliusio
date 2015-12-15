@@ -1,7 +1,7 @@
 name: corneliusio
 favicon: null
-layout_spectrum: 0.23314488912001252
-typography_spectrum: 0.16116311121731997
+layout_spectrum: 0
+typography_spectrum: 0.69506
 title: Cornelius Ukena
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.7237237587105483
-  lightness: 0.3814250158611685
-  saturation: 0.9616308186668903
-  rhythmicContrast: 0.8643611415755004
+    - '#6da890'
+    - '#8a7550'
+    - '#ce9f00'
+    - '#86120b'
+    - '#001d74'
+  brandStrength: 0.5
+  lightness: 0.3125
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
